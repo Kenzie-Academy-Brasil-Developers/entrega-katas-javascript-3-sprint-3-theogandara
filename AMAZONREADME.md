@@ -34,7 +34,7 @@ Note that the first 10 katas should seem familiar: they are a repeat of the ones
 14.  Display the square of each element in sampleArray. _(219961, 570025, ..., 222784)_
 15.  Display the sum of all the numbers from 1 to 20.
 16.  Display the sum of all the elements in sampleArray.
-17.  Display the smallest element in sampleArray.
+17.  Display the smallest element in sampleArray. 
 18.  Display the largest element in sampleArray.
 
 

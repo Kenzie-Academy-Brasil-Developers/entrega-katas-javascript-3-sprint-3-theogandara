@@ -1,0 +1,25 @@
+body{
+    background-color: #FCBF49;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-size: 3rem;
+}
+
+#resultados {
+    background-color: #75AADB;
+}
+
+#resultados p{
+    color: #fff;
+    margin: 10px;
+    padding: 5px;
+    font-size: 1.2rem;
+}
+
+#resultados p:hover{
+    color: #843511;
+    background-color: #fff;
+}
